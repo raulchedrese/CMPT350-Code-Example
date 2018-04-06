@@ -1,0 +1,27 @@
+body {
+  background-color: #efefef;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",
+    "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans",
+    "Droid Sans", "Helvetica Neue", sans-serif;
+}
+
+.App {
+  padding: 40px;
+}
+
+.title {
+  display: block;
+  margin-bottom: 20px;
+}
+
+.list-item {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 20px;
+  padding: 30px 20px;
+  font-weight: bold;
+  color: #a1a1a3;
+  background-color: #fff;
+  border-radius: 10px;
+  box-shadow: 5px 5px 13px 0px rgba(166,170,169,0.18);
+}
